@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Blue</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/E9uvclS3WnAAAAAM/bojji-kage.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blyoue&label=Profile%20views&color=0e75b6&style=flat" alt="blyoue" /> </p>
 
 - 🌱 I’m currently learning **Vue, Angular**
