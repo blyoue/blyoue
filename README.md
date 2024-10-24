@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/26/b8/f1/26b8f1a0d3308bd834ad7152b6062e1a.gif)](https://github.com/blyoue)
+[![MasterHead](https://media1.tenor.com/m/4NOsweb3cQcAAAAC/starry-night-stars.gif)](https://github.com/blyoue)
 <h1 align="center">Hi 👋, I'm Blue</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
