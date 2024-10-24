@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/07/88/22/078822cbe05947476087fce3da28648c.jpg)
+![MasterHead](https://cdn.readawrite.com/publicassets/5257613/cover_picture/cover_picture.gif)
 <h1 align="center">Hi 👋, I'm Blue</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
