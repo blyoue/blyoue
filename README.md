@@ -17,5 +17,3 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,angular,react,nextjs,nodejs,express,python,go,php,postman,mysql,sqlite&perline=8" />
 </div>
-
-[![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=blyoue)](https://github.com/blyoue/github-readme-stats)
